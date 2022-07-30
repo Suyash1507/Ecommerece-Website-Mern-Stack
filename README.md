@@ -86,3 +86,4 @@ The user of this react application should be able to view all the products. The 
 
 ### Images
 Images of all the pages have been provided in the github repository
+<img width="1472" alt="Screenshot 2022-07-24 at 10 51 16 AM" src="images/Products.jpeg">
