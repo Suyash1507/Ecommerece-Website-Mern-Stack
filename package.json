@@ -8,9 +8,9 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "vit-assessment-1-install": "npm install --prefix vit-assessment-1",
+    "client-install": "npm install --prefix vit-assessment-1",
     "server": "nodemon server.js",
-    "vit-assessment-1": "npm start --prefix vit-assessment-1",
+    "client": "npm start --prefix vit-assessment-1",
     "dev": "concurrently \"npm run server\" \"npm run vit-assessment-1\"",
     "start": "node server.js",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix vit-assessment-1 && npm run build --prefix vit-assessment-1"
