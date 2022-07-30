@@ -80,7 +80,7 @@ The user of this react application should be able to view all the products. The 
 <img width="1512" alt="Screenshot" src="https://raw.githubusercontent.com/Suyash1507/Krypto_Submission/main/images/Register.jpeg?token=GHSAT0AAAAAABWKBEMQJV3MTM5WTYTUBF5YYXFGK7A">
 
 ### Home page
-<img width="1512" alt="Screenshot" src="https://raw.githubusercontent.com/Suyash1507/Krypto_Submission/main/images/Products.jpeg?token=GHSAT0AAAAAABWKBEMQOOZIWO2A5G6MFRKKYXFGDTQ">
+<img width="1512" alt="Screenshot" src="https://raw.githubusercontent.com/Suyash1507/Krypto_Submission/main/images/Products.jpeg?token=GHSAT0AAAAAABWKBEMRTO27OE7YCC56Z3BYYXFGLSQ">
 
 ### Single Product Page
 <img width="1512" alt="Screenshot" src="https://raw.githubusercontent.com/Suyash1507/Krypto_Submission/main/images/Single%20Product%20Page.jpeg?token=GHSAT0AAAAAABWKBEMRTO4MQPJF75ZXFFG4YXFGFNQ">
