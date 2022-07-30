@@ -1,15 +1,12 @@
 # Krypto_Submission
 Final_Submission 
 ## Overview
+- The entire project is provided in the following zip file [Ecommerce-app](https://1drv.ms/u/s!Ak1zweu8oWpxlxpfD-0BCoPY3NaR?e=arEWNj) along with Node modules.
 
-1. The entire project is provided in the following zip file [Ecommerce-app](https://1drv.ms/u/s!Ak1zweu8oWpxlxpfD-0BCoPY3NaR?e=arEWNj) along with Node modules.
 ## Video Description of my app
-https://www.youtube.com/watch?v=Mkx_4zF4AxY
-
-2. I have also made a video description of my website - [YouTube](https://youtu.be/Mkx_4zF4AxY)
+- I have also made a video description of my website - [YouTube](https://youtu.be/Mkx_4zF4AxY)
 
 ## What to do? (Problem Statement)
-
 Our goal is to implement an eCommerce application.
 
 ## Application functionalities
