@@ -85,7 +85,7 @@ The user of this react application should be able to view all the products. The 
 - `nodemon server` - To run the backend part of the website
 
 ### Images
-##Login
+## Login
 <img width="1472" alt="Screenshot" src="images/Login.jpeg">
 
 ## Register
