@@ -84,26 +84,5 @@ The user of this react application should be able to view all the products. The 
 - `cd ecommerceProject`
 - `nodemon server` - To run the backend part of the website
 
-### Login
-<img width="1512" alt="Screenshot" src="https://raw.githubusercontent.com/Suyash1507/Krypto_Submission/main/images/Login.jpeg?token=GHSAT0AAAAAABWKBEMQEGVCCWX2UFF37UPAYXFGKRA">
-
-### Register page
-<img width="1512" alt="Screenshot" src="https://raw.githubusercontent.com/Suyash1507/Krypto_Submission/main/images/Register.jpeg?token=GHSAT0AAAAAABWKBEMQJV3MTM5WTYTUBF5YYXFGK7A">
-
-### Home page
-<img width="1512" alt="Screenshot" src="https://raw.githubusercontent.com/Suyash1507/Krypto_Submission/main/images/Products.jpeg?token=GHSAT0AAAAAABWKBEMRTO27OE7YCC56Z3BYYXFGLSQ">
-
-### Single Product Page
-<img width="1512" alt="Screenshot" src="https://raw.githubusercontent.com/Suyash1507/Krypto_Submission/main/images/Single%20Product%20Page.jpeg?token=GHSAT0AAAAAABWKBEMRTO4MQPJF75ZXFFG4YXFGFNQ">
-
-### Cart Page
-<img width="1512" alt="Screenshot" src="https://raw.githubusercontent.com/Suyash1507/Krypto_Submission/main/images/Cart.jpeg?token=GHSAT0AAAAAABWKBEMQUFMXSXUHGYXRVUNWYXFGF5A">
-
-### Payment Info
-<img width="1512" alt="Screenshot" src="https://raw.githubusercontent.com/Suyash1507/Krypto_Submission/main/images/Payment%20info.jpeg?token=GHSAT0AAAAAABWKBEMRS6X45X5LMDKVE7OWYXFGHKA">
-
-### Payment Details
-<img width="1512" alt="Screenshot" src="https://raw.githubusercontent.com/Suyash1507/Krypto_Submission/main/images/Payment%20Details.jpeg?token=GHSAT0AAAAAABWKBEMQ2QNRYVAZQS6EXAGYYXFGIEQ">
-
-### Payment Done
-<img width="1512" alt="Screenshot" src="https://raw.githubusercontent.com/Suyash1507/Krypto_Submission/main/images/Payment%20Done.jpeg?token=GHSAT0AAAAAABWKBEMRVFBTGVWOOPCXDJB2YXFGITA">
+### Images
+Images of all the pages have been provided in the github repository
