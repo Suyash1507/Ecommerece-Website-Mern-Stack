@@ -74,4 +74,4 @@ The user of this react application should be able to view all the products. The 
 - `nodemon server` - To run the backend part of the website
 
 ### Login/Register page
-<img width="1512" alt="Screenshot 2022-07-24 at 10 44 13 AM" src="https://user-images.githubusercontent.com/52570524/180701451-5ccce009-0384-426c-b1bc-d7536fd7b142.png">
+<img width="1512" alt="Screenshot 2022-07-24 at 10 44 13 AM" src="https://1drv.ms/u/s!Ak1zweu8oWpxlxxe6xMpK4BLwzxF?e=sc7CCv">
