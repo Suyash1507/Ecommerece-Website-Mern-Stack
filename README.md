@@ -74,4 +74,4 @@ The user of this react application should be able to view all the products. The 
 - `nodemon server` - To run the backend part of the website
 
 ### Login/Register page
-<img width="1512" alt="Screenshot 2022-07-24 at 10 44 13 AM" src="https://1drv.ms/u/s!Ak1zweu8oWpxlxxe6xMpK4BLwzxF?e=sc7CCv">
+<img width="1512" alt="Screenshot 2022-07-24 at 10 44 13 AM" src="[https://1drv.ms/u/s!Ak1zweu8oWpxlxxe6xMpK4BLwzxF?e=sc7CCv](https://sat02pap004files.storage.live.com/y4mwwt7twq3jtMTu1OVlTAmJobFuHZN600CTgqXrfKzcyUbkh43QepEvZgMs3PAHe7pq270NtPlmJUWOrR4Lo9nhGljCZ0HpYCBtgVvaITGbe0Ah3fAqJMLl6K9K57gg-kd05rF-5t1FhBxy5nu3OJbb6EFipxd8MBglOzQELrV_ZQ1VpM9U2ZbYgAeMuxE27VxGVA868QmDwbdbL623Ba9G_7oGGVQ-08Qu56czLME-A8?encodeFailures=1&width=1280&height=638)">
