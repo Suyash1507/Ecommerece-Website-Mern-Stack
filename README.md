@@ -8,7 +8,7 @@ The entire project is provided in the following zip file [Ecommerce-app](https:/
 
 Our goal is to implement an eCommerce application.
 
-## application functionalities
+## Application functionalities
 1. A login page for the user , when a person login , he is redirected to home page.
 2. A register page which is connected to mongo db database that accepts the registration details.
 3. A home page that contains the product details
@@ -21,6 +21,7 @@ Our goal is to implement an eCommerce application.
 10. Mongodb database saves all the output of our website
 
 - Are there any improvements you could make to your submission?
+I can add an admin panel in the project along with the payment confirmation in our stripe API which gives all the details of the payments made . I was trying to add the favourites button but due to some issues I had to remove it, I will definitely try to implement it again. The bootstrap part could have ben implemented more easily and the complexity of my website can be reduced. There are many files that have been created and those can be implemented in one single file.
 
 - What would you do differently if you were allocated more time?
 
