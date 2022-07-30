@@ -73,11 +73,11 @@ The user of this react application should be able to view all the products. The 
 - `cd ecommerceProject`
 - `nodemon server` - To run the backend part of the website
 
-### Login/Register page
-<img width="1512" alt="Screenshot" src="https://raw.githubusercontent.com/Suyash1507/Krypto_Submission/main/images/Login.jpeg?token=GHSAT0AAAAAABWKBEMQIXUYJQ6IKM6767HKYXFGBOA">
+### Login
+<img width="1512" alt="Screenshot" src="https://raw.githubusercontent.com/Suyash1507/Krypto_Submission/main/images/Login.jpeg?token=GHSAT0AAAAAABWKBEMQEGVCCWX2UFF37UPAYXFGKRA">
 
 ### Register page
-<img width="1512" alt="Screenshot" src="https://raw.githubusercontent.com/Suyash1507/Krypto_Submission/main/images/Register.jpeg?token=GHSAT0AAAAAABWKBEMRN2GGMNC2F74SD6AQYXFGEQQ">
+<img width="1512" alt="Screenshot" src="https://raw.githubusercontent.com/Suyash1507/Krypto_Submission/main/images/Register.jpeg?token=GHSAT0AAAAAABWKBEMQJV3MTM5WTYTUBF5YYXFGK7A">
 
 ### Home page
 <img width="1512" alt="Screenshot" src="https://raw.githubusercontent.com/Suyash1507/Krypto_Submission/main/images/Products.jpeg?token=GHSAT0AAAAAABWKBEMQOOZIWO2A5G6MFRKKYXFGDTQ">
