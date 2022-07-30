@@ -23,9 +23,9 @@ Our goal is to implement an eCommerce application.
 ## Are there any improvements you could make to my submission?
 I can add an admin panel in the project along with the payment confirmation in our stripe API which gives all the details of the payments made . I was trying to add the favourites button but due to some issues I had to remove it, I will definitely try to implement it again. The bootstrap part could have ben implemented more easily and the complexity of my website can be reduced. There are many files that have been created and those can be implemented in one single file.
 
-- What would you do differently if you were allocated more time?
+## What would you do differently if you were allocated more time?
+I can make my css and bootstrap more effective. In this version of my website , there are few areas where you can see that css is not that good , so I can definitely make it better if more time is allocated. There are many places in the app where some basic functionalities are yet to be added like adding the fully functional payment option. Login, Register , Home page can be made better with all the different types react components.
 
-(NOTE: You have to use the latest version of v18 and react-router-dom v6)
 
 ## How should the application work?
 
