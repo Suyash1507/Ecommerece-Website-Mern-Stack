@@ -2,8 +2,14 @@
 Final_Submission 
 ## Overview
 
-The entire project is provided in the following zip file [Ecommerce-app](https://1drv.ms/u/s!Ak1zweu8oWpxlxpfD-0BCoPY3NaR?e=arEWNj) along with Node modules.
-I have made a video description of my website - [YouTube](https://youtu.be/Mkx_4zF4AxY)
+1. The entire project is provided in the following zip file [Ecommerce-app](https://1drv.ms/u/s!Ak1zweu8oWpxlxpfD-0BCoPY3NaR?e=arEWNj) along with Node modules.
+## Video Description of my app
+<video width="320" height="240" controls>
+  <source src="https://www.youtube.com/watch?v=Mkx_4zF4AxY" type="video/mp4">
+  <source src="https://www.youtube.com/watch?v=Mkx_4zF4AxY" type="video/ogg">
+</video>
+
+2. I have also made a video description of my website - [YouTube](https://youtu.be/Mkx_4zF4AxY)
 
 ## What to do? (Problem Statement)
 
