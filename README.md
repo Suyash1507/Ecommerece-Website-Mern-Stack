@@ -8,7 +8,17 @@ The entire project is provided in the following zip file [Ecommerce-app](https:/
 
 Our goal is to implement an eCommerce application.
 
-- Describe all the application functionalities
+## application functionalities
+1. A login page for the user , when a person login , he is redirected to home page.
+2. A register page which is connected to mongo db database that accepts the registration details.
+3. A home page that contains the product details
+4. Filter option is provided in the home page to sort the elements according to price, type of items and searching of items from the page.
+5. When we click on a particular product, product page opens with the description of product.
+6. Add to cart button is provided on the individual products page.
+7. Users can also give reviews about a product along with it's rating which is displayed on the app
+8. Add to cart page is made where we can also make payment and payment confirmation can be seen on the console.
+9. Pay now button is used for the payment.
+10. Mongodb database saves all the output of our website
 
 - Are there any improvements you could make to your submission?
 
