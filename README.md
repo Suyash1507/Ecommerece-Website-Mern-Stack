@@ -64,3 +64,11 @@ The user of this react application should be able to view all the products. The 
 -  On the other terminal
 - `cd ecommerceProject`
 - `nodemon server` - To run the backend part of the website
+
+## To run the project extracted from zip file
+-  We need to do the following'.
+- `cd vit-assessment-1`
+- `npm start`
+- Parallelly in the other terminal run the following
+- `cd ecommerceProject`
+- `nodemon server` - To run the backend part of the website
