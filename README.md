@@ -84,6 +84,27 @@ The user of this react application should be able to view all the products. The 
 - `cd ecommerceProject`
 - `nodemon server` - To run the backend part of the website
 
-### Images
-Images of all the pages have been provided in the github repository
-<img width="1472" alt="Screenshot 2022-07-24 at 10 51 16 AM" src="images/Products.jpeg">
+###Images
+##Login
+<img width="1472" alt="Screenshot" src="images/Login.jpeg">
+
+##Register
+<img width="1472" alt="Screenshot" src="images/Register.jpeg">
+
+##Home
+<img width="1472" alt="Screenshot" src="images/Products.jpeg">
+
+##Single Product Page
+<img width="1472" alt="Screenshot" src="images/Single Product Page.jpeg">
+
+##Cart
+<img width="1472" alt="Screenshot" src="images/Cart.jpeg">
+
+##Payment info
+<img width="1472" alt="Screenshot" src="images/Payment info.jpeg">
+
+##Payment Details
+<img width="1472" alt="Screenshot" src="images/Payment Details.jpeg">
+
+##Payment Done
+<img width="1472" alt="Screenshot" src="images/Payment Done.jpeg">
