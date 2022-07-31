@@ -1,4 +1,4 @@
-# Krypto_Submission
+# Mern Ecommerce
 Final_Submission 
 ## Overview
 - The entire project is provided in the following zip file [Ecommerce-app](https://1drv.ms/u/s!Ak1zweu8oWpxlxpfD-0BCoPY3NaR?e=arEWNj) along with Node modules.
